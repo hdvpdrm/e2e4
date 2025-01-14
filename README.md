@@ -3,6 +3,9 @@ This is the essoteric programming language.<br>
 It is interpeted and implemented in ```Perl```,<br>
 'cause ```Perl``` is kinda good choice for text processing tasks.<br>
 
+
+https://github.com/hdvpdrm/e2e4/blob/main/chess.gif - hello world program execution.
+
 # Syntax
 Program in e2e4 is represented as a sequence of commands splitted by new line character ```\n```.<br>
 There are 2 patterns for commands:<br>
@@ -29,4 +32,5 @@ You have a matrix 8x8. Simple, isn't it?<br>
 So each cell equals 0 if no figure is placed.<br>
 Each line of matrix is binary number.<br>
 It converts to decimal and its associated ascii character.<br>
+
 
