@@ -1,5 +1,5 @@
 # e2e4
-This is the essoteric programming language.<br>
+This is the esoteric programming language.<br>
 It is interpeted and implemented in ```Perl```,<br>
 'cause ```Perl``` is kinda good choice for text processing tasks.<br>
 
